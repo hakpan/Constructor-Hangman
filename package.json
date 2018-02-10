@@ -1,0 +1,20 @@
+{
+  "name": "Constructor-Hangman",
+  "version": "1.0.0",
+  "description": "Creating Hangman game in the terminal that will receive user input using npm inquirer & or prompt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakpan/Constructor-Hangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakpan/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/hakpan/Constructor-Hangman#readme"
+}
